@@ -1,17 +1,17 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: diggajupadhyay # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Diggaj Upadhyay
+    url: https://diggajupadhyay.com.np
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
@@ -21,6 +21,7 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: demo.upptime.js.org
+  cname: diggajupadhyay.com.np
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
