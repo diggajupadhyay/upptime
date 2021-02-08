@@ -6,33 +6,48 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Diggaj Upadhyay
     url: https://diggajupadhyay.com.np
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+    maxResponseTime: 5000
+  - name: Ayush Bhandari
+    url: http://ayushbhandari.com.np/
+    assignees:
+      - AyushBhandari
+    maxResponseTime: 5000
+  - name: Nischal Pantha
+    url: http://bpantha.com.np/
+    assignees:
+      - NischalPantha
+    maxResponseTime: 5000
+  - name: LKC Visuals
+    url: http://lkcvisuals.com/
+    assignees:
+      - LKCVisuals
+    maxResponseTime: 5000
+
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  cname: diggajupadhyay.com.np
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # design
+  theme: dark
+  logoUrl: https://diggajupadhyay.com.np/logo.png
+
+  # custom location
+  baseUrl: /upptime
+  name: This is how we roll
+
+  # nav-bar
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  
+  # body
+  introTitle: "**Upptime** is the open-source uptime monitor and status page,
+  powered entirely by GitHub."
+  introMessage: "**Welcome** ease back and feel comfortable to go through every
+  option to get the best out of this."
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  # fav icon
+  favicon: https://diggajupadhyay.com.np/logo.png
+
+  # Custom robots.txt files
+  robotsText: "User-agent: * \n Disallow: /"
