@@ -22,19 +22,19 @@
     "url": "http://ayushbhandari.com.np/",
     "icon": "https://favicons.githubusercontent.com/ayushbhandari.com.np",
     "slug": "ayush-bhandari",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4035,
-    "timeDay": 8380,
-    "timeWeek": 4420,
-    "timeMonth": 4035,
-    "timeYear": 4035,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 3896,
+    "timeDay": 6875,
+    "timeWeek": 4214,
+    "timeMonth": 3896,
+    "timeYear": 3896,
     "dailyMinutesDown": {
-      "2021-02-16": 0
+      "2021-02-16": 7
     }
   },
   {
