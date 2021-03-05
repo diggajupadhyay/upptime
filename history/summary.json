@@ -4,19 +4,19 @@
     "url": "https://diggajupadhyay.com.np",
     "icon": "https://favicons.githubusercontent.com/diggajupadhyay.com.np",
     "slug": "diggaj-upadhyay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 496,
-    "timeWeek": 501,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 477,
+    "timeDay": 460,
+    "timeWeek": 492,
+    "timeMonth": 477,
+    "timeYear": 477,
     "dailyMinutesDown": {
-      "2021-03-05": 0
+      "2021-03-05": 7
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "http://ayushbhandari.com.np/",
     "icon": "https://favicons.githubusercontent.com/ayushbhandari.com.np",
     "slug": "ayush-bhandari",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +35,18 @@
     "timeWeek": 372,
     "timeMonth": 2043,
     "timeYear": 2043,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-05": 0
+    }
   },
   {
     "name": "Nischal Pantha",
     "url": "http://bpantha.com.np/",
     "icon": "https://favicons.githubusercontent.com/bpantha.com.np",
     "slug": "nischal-pantha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 381,
     "timeMonth": 334,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-05": 0
+    }
   },
   {
     "name": "LKC Visuals",
