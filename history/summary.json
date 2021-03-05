@@ -5,38 +5,36 @@
     "icon": "https://favicons.githubusercontent.com/diggajupadhyay.com.np",
     "slug": "diggaj-upadhyay",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 477,
     "timeDay": 460,
     "timeWeek": 492,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {
-      "2021-03-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ayush Bhandari",
     "url": "http://ayushbhandari.com.np/",
     "icon": "https://favicons.githubusercontent.com/ayushbhandari.com.np",
     "slug": "ayush-bhandari",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2043,
-    "timeDay": 329,
-    "timeWeek": 372,
-    "timeMonth": 2043,
-    "timeYear": 2043,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 2015,
+    "timeDay": 778,
+    "timeWeek": 479,
+    "timeMonth": 2015,
+    "timeYear": 2015,
     "dailyMinutesDown": {
-      "2021-03-05": 0
+      "2021-03-05": 13
     }
   },
   {
@@ -44,19 +42,19 @@
     "url": "http://bpantha.com.np/",
     "icon": "https://favicons.githubusercontent.com/bpantha.com.np",
     "slug": "nischal-pantha",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 358,
-    "timeWeek": 381,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 332,
+    "timeDay": 316,
+    "timeWeek": 367,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2021-03-05": 0
+      "2021-03-05": 13
     }
   },
   {
