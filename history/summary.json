@@ -4,7 +4,7 @@
     "url": "https://diggajupadhyay.com.np",
     "icon": "https://favicons.githubusercontent.com/diggajupadhyay.com.np",
     "slug": "diggaj-upadhyay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 501,
     "timeMonth": 479,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-05": 0
+    }
   },
   {
     "name": "Ayush Bhandari",
